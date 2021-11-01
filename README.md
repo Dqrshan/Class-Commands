@@ -14,7 +14,7 @@
 
 - File changes
 
-  - In your **`.env`** file, remove the `#` in line (72) `# .env`
+  - In your **`.gitignore`** file, remove the `#` in line (72) `# .env`
     <img src="https://media.discordapp.net/attachments/875264869732065292/904599161213685800/unknown.png" alt="env-change">
 
 - Fill in **`.env`**
