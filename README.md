@@ -1,4 +1,4 @@
-# Discord Bot Commands w/ Classes
+# Discord Slash Commands w/ Classes
 
 ## Requirements
 
