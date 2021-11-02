@@ -4,7 +4,6 @@ export interface RunOptions {
     interaction: CommandInteraction & {
         member: GuildMember;
     };
-    args: Array<string>;
 }
 export declare type RunFunction = (options: RunOptions) => any;
 export declare type CommandOptions = {
