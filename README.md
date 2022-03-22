@@ -24,11 +24,5 @@
 
 ## Improvements
 
-- To help improve the code, open a [pull request](https://github.com/Ninn08/Class-Commands/pulls).
-- Contact me on Discord, [**o' Nin#8881**](https://discord.com/users/838620835282812969)
-
-## Read More
-
-- For a more advanced Bot Template, check out [Ninn08/Discord-Bot-Template](https://github.com/Ninn08/Discord-Bot-Template).
-  - It includes message, slash and context menu commands!
-  - Works only with [Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
+- To help improve the code, open a [pull request](https://github.com/Dqrshan/Class-Commands/pulls).
+- Contact me on Discord, [**Lorenz#1337**](https://discord.com/users/838620835282812969)
